@@ -4,6 +4,13 @@
 * 密码 ```lightWeightBaby!```
 
 ## 示例
+* 运行容器
 ```
 docker run --name centos_ssh -p 2222:22 -d chenqionghe/centos
 ```
+* 连接
+```
+docker run --name centos_ssh -p 2222:22 -d chenqionghe/centos
+```
+
+
