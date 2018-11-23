@@ -10,7 +10,7 @@ docker run --name centos_ssh -p 2222:22 -d chenqionghe/centos
 ```
 * 连接
 ```
-docker run --name centos_ssh -p 2222:22 -d chenqionghe/centos
+ssh root@127.0.0.1 -p 2222
 ```
 
 
